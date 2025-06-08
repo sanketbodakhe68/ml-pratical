@@ -1,4 +1,4 @@
-# ml-pratical
+# ml-pratical (ty computer)
 all pratical for the ty computer enginering
 in dbatu university
 # Developed by tanish sul
